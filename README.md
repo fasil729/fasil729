@@ -9,9 +9,6 @@
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
-- 👨‍💻 All of my projects are available at [link](link)
-
-
 - 💬 Ask me about **Full stack devlopment, Flutter, devops**
 
 - 📫 How to reach me **fasikafikadu38@gmail.com**
